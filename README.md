@@ -74,3 +74,13 @@ This project demonstrates my ability to:
 
 ## Presentation
 [View Presentation on Canva](https://canva.link/08k2yzp2oa428r4)
+
+## Team Members
+
+This project was developed as a team collaboration:
+
+- [Ghala M Mansour](https://github.com/ghalamansour)  
+- [Sara A Bashawri](https://github.com/sarabashawri)  
+- [Yara Alsiamy](https://github.com/yaraalsiamy1)  
+- Weam Filimban
+- Maram Al-rumman
