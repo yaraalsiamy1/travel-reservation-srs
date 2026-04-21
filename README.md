@@ -70,4 +70,4 @@ This project demonstrates my ability to:
 
 ## Documentation
 
-[View Full SRS Document](docs/Reservation application for travelling SRS.pdf)
+[View Full SRS Document]([Reservation application for travelling SRS.pdf](https://github.com/yaraalsiamy1/travel-reservation-srs/blob/main/Reservation%20application%20for%20travelling%20SRS.pdf))
