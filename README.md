@@ -73,4 +73,4 @@ This project demonstrates my ability to:
 [View Full SRS Document (WayToGo SRS)](https://github.com/yaraalsiamy1/travel-reservation-srs/blob/main/Reservation%20application%20for%20travelling%20SRS.pdf)
 
 ## Presentation
-[View Presentation on Canva]([https://canva.link/08k2yzp2oa428r4])
+[View Presentation on Canva](https://canva.link/08k2yzp2oa428r4)
