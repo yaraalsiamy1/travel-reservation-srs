@@ -7,6 +7,7 @@ This repository contains a Software Requirements Specification (SRS) document fo
 
 The system is designed to provide users with a seamless and convenient platform to book and manage travel services, including flights, hotels, car rentals, and tourist activities.
 
+
 The application focuses on delivering a smooth user experience with a structured and user-friendly interface.
 
 
